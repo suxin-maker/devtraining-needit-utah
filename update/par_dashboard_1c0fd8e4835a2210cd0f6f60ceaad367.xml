@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard">
+    <par_dashboard action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <certified>false</certified>
+        <description/>
+        <experience display_value="Advanced Dashboards">8adc36706f01011089060168e25b3693</experience>
+        <grid>48</grid>
+        <name>test</name>
+        <sys_class_name>par_dashboard</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-19 08:43:41</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1c0fd8e4835a2210cd0f6f60ceaad367</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>test</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>par_dashboard_1c0fd8e4835a2210cd0f6f60ceaad367</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-19 08:43:43</sys_updated_on>
+        <sys_ux_app_config display_value="Advanced Dashboards">02dc36706f01011089060168e25b3691</sys_ux_app_config>
+        <sys_ux_app_route display_value="test">b40fd8e4835a2210cd0f6f60ceaad3be</sys_ux_app_route>
+        <sys_ux_macroponent display_value="test default">a00fd8e4835a2210cd0f6f60ceaad379</sys_ux_macroponent>
+        <sys_ux_screen display_value="test default">7c0fd8e4835a2210cd0f6f60ceaad37d</sys_ux_screen>
+        <sys_ux_screen_type display_value="test">2c0fd8e4835a2210cd0f6f60ceaad375</sys_ux_screen_type>
+    </par_dashboard>
+</record_update>
